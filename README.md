@@ -22,7 +22,7 @@ Metrik yang digunakan untuk mengevaluasi model adalah:
 * Mean Absolute Error (MAE), atau rerata dari error absolut antara nilai prediksi dengan dengan nilai aktual
 * Mean Absolute Percentage Error (MAPE), atau rerata dari persentase error antara nilai prediksi dengan dengan nilai aktual
 
-Untuk MAE dan MAPE, semakin kecil nilainya maka semakin baik performa model karena nilai prediksi semakin mendekati nilai aktualnya. Akan tetapi, MAPE memiliki keterbatasan interpretasi ketika error prediksi lebih besar dari nilai aktualnya karena dengan begitu nilai persentasenya akan lebih besar dari 100%.
+Untuk MAE dan MAPE, semakin kecil nilainya maka semakin baik performa model karena nilai prediksi semakin mendekati nilai aktualnya.
 
 Project Organization
 ------------
